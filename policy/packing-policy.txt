@@ -1,0 +1,4 @@
+SOLSTICE SPRING PACKING POLICY
+Snapshot cutoff: 2148-04-10T23:59:59Z
+Reservations are all-or-nothing. Use eligible stock by earliest expiration.
+The repository task is the authoritative specification for validation and publication.
